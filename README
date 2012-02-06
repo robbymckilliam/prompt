@@ -1,4 +1,4 @@
-prompt v0.0.1
+prompt v0.0.2
 
 Ingmar Land and Robby McKilliam 6/2/2012
 
@@ -9,6 +9,7 @@ A beamer addon for presentations allowing you to inform your audience of the res
 \silence : Usher silence from your audience
 \attention : Command the attention of your audience
 \surprise : Indicate that a flabbergasting result has been displayed
+\laughter : Prompt your audience regarding a hilarious gag
 \applause : Demand recognition at the end of your glorious presentation
 
 See example.tex for an example of the intended use of prompt.
