@@ -1,0 +1,15 @@
+prompt v0.0.1
+
+Ingmar Land and Robby McKilliam 6/2/2012
+
+A beamer addon allowing you to inform your audience to as to the response you desire them to express.  Simple usage:
+
+\include{prompt}
+
+\silence : Usher silence from your audience
+\attention : Command the attention of your audience with this slide
+\surprise : Indicate to  your audience that a flabbergasting result has been displayed
+\applause : Demand recognition at the end of your glorious presentation
+
+See example.tex for an example of the intended use of prompt.
+ 
