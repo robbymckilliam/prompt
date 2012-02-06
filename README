@@ -4,7 +4,7 @@ Ingmar Land and Robby McKilliam 6/2/2012
 
 A beamer addon for presentations allowing you to inform your audience of the response you desire them to express.  Simple usage:
 
-\include{prompt}
+\usepackage{prompt}
 
 \silence : Usher silence from your audience
 \attention : Command the attention of your audience
