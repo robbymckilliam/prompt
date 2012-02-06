@@ -1,0 +1,20 @@
+% prompt.sty
+%
+% (c) Ingmar and Robby, 1 Feb 2012, on the bus
+
+
+% define frame with audience prompts
+
+\newcommand{\audiencepromptframe}[1]{
+\begin{frame}
+  %\vspace{6ex}
+  \begin{center}
+  \Huge\textcolor{red}{#1}
+  \end{center}
+\end{frame}
+}
+
+\newcommand{\silence}{\audiencepromptframe{SILENCE}}
+\newcommand{\attention}{\audiencepromptframe{ATTENTION}}
+\newcommand{\surprise}{\audiencepromptframe{SURPRISE}}
+\newcommand{\applause}{\audiencepromptframe{APPLAUSE}}
